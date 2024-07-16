@@ -32,7 +32,7 @@ python -m venv venv
 ```
 4. Activate the virtual environment you just created
 ```commandline
-python .\venv\Scripts\activate
+.\venv\Scripts\activate
 ```
 5. Install packages
 ```commandline
